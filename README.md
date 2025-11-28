@@ -48,7 +48,8 @@ List of features visible on the site. Replace or expand with actual site items:
 > Add local screenshots or hosted image links. Example markdown:
 
 ```
-![Home Page screenshot](./src/assets/Screenshots/home.png)
+![Home Page screenshot](../src/assets/Screenshots/home.png)
+![Home Page screenshot](https://github.com/mvikashsaini/Vaptro-Ecommercre-Frontend/blob/eaf638768756a2e1128d400528b931a3a58eb676/src/assets/Screenshots/home.png)
 ![Product Page screenshot](./src/assets/Screenshots/products.png)
 ![About Page screenshot](./src/assets/Screenshots/about.png)
 ![Contact Page screenshot](./src/assets/Screenshots/contact.png)
