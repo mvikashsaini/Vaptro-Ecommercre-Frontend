@@ -47,25 +47,26 @@ List of features visible on the site. Replace or expand with actual site items:
 
 
 
-*Home Page
+* Home Page
 ![Home Page screenshot](./src/assets/Screenshots/home.png)
+--------------------------------------------------------------
 
-*Product Page
+* Product Page
 ![Product Page screenshot](./src/assets/Screenshots/products.png)
 
-*About Page
+* About Page
 ![About Page screenshot](./src/assets/Screenshots/about.png)
 
-*Contact Page
+* Contact Page
 ![Contact Page screenshot](./src/assets/Screenshots/contact.png)
 
-*Cart Page
+* Cart Page
 ![Cart Page screenshot](./src/assets/Screenshots/cart.png)
 
-*Category View
+* Category View
 ![Category screenshot](./src/assets/Screenshots/category.png)
 
-*Single Product Page
+* Single Product Page
 ![Single Product Page screenshot](./src/assets/Screenshots/single%20product.png)
 
 
