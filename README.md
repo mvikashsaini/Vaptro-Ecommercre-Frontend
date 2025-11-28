@@ -49,7 +49,7 @@ List of features visible on the site. Replace or expand with actual site items:
 
 * Home Page
 ![Home Page screenshot](./src/assets/Screenshots/home.png)
---------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 
 * Product Page
 ![Product Page screenshot](./src/assets/Screenshots/products.png)
